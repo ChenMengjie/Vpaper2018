@@ -4,9 +4,9 @@
 
 ### Introduction
 
-The directory contains the code to reproduce all the analysis present in the paper: .
+The directory contains the code to reproduce all the analysis and figures presented in the paper: .
 
-**VIPER()** can be found at: https://github.com/ChenMengjie/VIPER
+**VIPER** can be found at: https://github.com/ChenMengjie/VIPER
 
 
 
